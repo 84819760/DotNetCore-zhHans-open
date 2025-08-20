@@ -1,3 +1,7 @@
+# ollama 版本    
+https://gitee.com/84819760/zh-api
+
+
 >汉化前 :    
 
 ![image](imgs/01%20%E6%B1%89%E5%8C%96%E5%89%8D.png)    
